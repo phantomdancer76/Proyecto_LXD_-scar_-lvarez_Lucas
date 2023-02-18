@@ -17,7 +17,7 @@ Autor: Óscar Álvarez Lucas
 
 Últimamente he estado buscando ideas para hacer el proyecto de fin de grado, buscando referencias con otros trabajos consultando ideas con los profesores... etc
 
-Después de bastante tiempo de buscar y teniendo en cuenta mis capacidades he encontrado una herramienta muy útil en la que me gustaría indagar, quería buscar una forma alternativa a la virtualización que estamos acostumbrados con un hipervisor de tipo 2, en un principio pensé en aprender docker, ya que es la herramienta de contenedores más conocida dentro del sector, pero vi una opción gratuita muy buena con muy buena estabilidad y sin tantos errores como otros que encontré, véase docker que lo estuve viendo y se me hacía muy difícil la comprensión del software y la configuración.
+Después de bastante tiempo de buscar y teniendo en cuenta mis capacidades he encontrado una herramienta muy útil en la que me gustaría indagar, quería buscar una forma alternativa a la virtualización que estamos acostumbrados con un hipervisor de tipo 2, en un principio pensé en aprender docker, ya que es la herramienta de contenedores más conocida dentro del sector, pero vi una opción gratuita muy buena con muy buena estabilidad y sin tantos errores como otros que encontré, véase docker del cual investigué y se me hacía muy difícil la comprensión del software y la configuración.
 
 Así que mi decisión final fue LXD que es un software de creación de contenedores de linux, que al contrario que docker puede contener más que una aplicación, un sistema operativo entero.
 
