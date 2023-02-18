@@ -1,5 +1,5 @@
 # Anteproyecto de investigación y uso de LXD
-anteproyecto de fin de grado ASIR2.
+Anteproyecto de fin de grado ASIR2.
 
 Título: Investigación y uso de LXD
 
