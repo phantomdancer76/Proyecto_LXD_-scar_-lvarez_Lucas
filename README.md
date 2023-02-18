@@ -1,7 +1,7 @@
-# Anteproyecto de introducción y uso de LXD
+# Anteproyecto de investigación y uso de LXD
 anteproyecto de fin de grado ASIR2.
 
-Título: Introducción y uso de LXD
+Título: Investigación y uso de LXD
 
 Autor: Óscar Álvarez Lucas
 
